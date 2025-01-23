@@ -1,4 +1,4 @@
-# 🚀 **Bootstrap Magic Gradient Project** 🌈  
+# 🚀 **Bootstrap Magic Gradient Project** 
 
 Welcome to the **coolest project on the web**! This is where sleek design meets smooth functionality, spiced up with awesome tech and creativity! 😎✨  
 
@@ -10,7 +10,7 @@ This project is a vibrant, responsive, and downright awesome webpage designed wi
 
 - **A Stunning Gradient Animation** 🎨  
   - Watch the colors smoothly dance across your screen!  
-  - Perfectly tuned with CSS and keyframes for that infinite rainbow vibe. 🌈  
+  - Perfectly tuned with CSS and keyframes for that infinite  colorful vibe. 🧡
 - **Bootstrap-Powered Navbar** 📋  
   - Sticky-top? Check!  
   - Mobile-friendly? Absolutely!  
